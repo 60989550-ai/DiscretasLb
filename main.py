@@ -1,2 +1,4 @@
-print("Tercer intento, este archivo está conectado con Git y GitHub")
+print("Tercer intento, para o seguir.......")
 print("lso ejes portales mecanizados")
+
+print("cena con la ....")
